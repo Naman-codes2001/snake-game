@@ -20,7 +20,7 @@
 - Download [Node Js and npm(Node package manager)](https://nodejs.org/en/) (npm gets installed by default on downloading Node)
 - Clone the repository by running the command:
 ```
-git clone https://github.com/Naman-codes2001/snake-game.git
+git clone https://github.com/namanrox/snake-game.git
 ```
 in your GitBash or terminal of VS Code.
 - Run the command `cd snake-game`
